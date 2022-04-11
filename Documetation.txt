@@ -1,0 +1,12 @@
+Day 1 bot v0.1:
+
+firs i used SetTimeOut to send message and media in specific group, the function of this is plublic ad in chats
+(yeah, is a bad practice but i'll going to update this project)
+
+Things what i need to update:
+
+1) Better the sendmessage, i need to use Dates for a better use
+
+2) A menu for this project
+
+3) GUI
